@@ -1,11 +1,14 @@
 // import React from 'react'
-
+import FacebookIcon from '@mui/icons-material/Facebook';
 const Footer = () => {
   return (
     <section>
         <div>
             <div>
-                class a
+                <h2>Media Contact</h2>
+                <div>
+                    <FacebookIcon />
+                </div>
             </div>
             <div>
                 class b
